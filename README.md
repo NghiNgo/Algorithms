@@ -1,3 +1,5 @@
 # Algorithms
 
-## Ngo Nghi
+## Nghi Ngo
+
+### Mathematics is the foundation of information technology
